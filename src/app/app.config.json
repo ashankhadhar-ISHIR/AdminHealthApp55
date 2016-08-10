@@ -1,0 +1,14 @@
+{
+  "appname": "AdminHealthApp55",
+  "scope": "DevCenterImpersonate",
+  "clientid": "4C0110F1-A3C3-4B88-B602-1CAEB9E1AFD7",
+  "buyerid": "Vendor",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
